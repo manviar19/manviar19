@@ -35,6 +35,3 @@ Here are a few highlights of my work:
 
 ---
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manviar19&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manviar19&layout=compact)
